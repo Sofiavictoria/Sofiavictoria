@@ -1,12 +1,12 @@
 Welcome to my GitHub profile 👋
 - 👋 Hi, I’m Sofia Victoria
 - 👩🏾‍🎓 I'm an electronic engineering student
-- 🌱 I’m currently learning C/C#, JavaScript
+- 🌱 I’m currently learning C/C#, JavaScript, HTML ,CSS
 
 Bem vindo ao meu perfil GitHub 👋! 
 - 👋 Oi, eu sou Sofia Victoria
 - 👩🏾‍🎓 Sou estudante de engenharia eletrônica
-- 🌱 Atualmente estou aprendendo C/C#,JavaScript
+- 🌱 Atualmente estou aprendendo C/C#,JavaScript, HTML,CSS
 
 <!---
 Sofiavictoria/Sofiavictoria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
